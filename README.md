@@ -13,7 +13,7 @@
 
 
 #### Josefina 
-##### 48 años, contadora en una empresa de fabricación de muebles. Es energética, pero al mismo tiempo seria y fría. Su objetivo en la vida es seguir con su profesión y enriquecerla y al mismo tiempo disfrutar y ser feliz junto a su marido e hijos. Es muy poco probable que entre a mi sitio web, ya que, entre su familia y trabajo no tiene mucho tiempo de ocio, pero se encuentra en un momento de mudanza, por lo que está en busca de lámparas nuevas para su hogar, por lo que podría llegar a mi sitio por Diseño de Lámparas
+##### 48 años, contadora en una empresa de fabricación de muebles. Es energética, pero al mismo tiempo seria y fría. Su objetivo en la vida es seguir con su profesión y enriquecerla y al mismo tiempo disfrutar y ser feliz junto a su marido e hijos. Es muy poco probable que entre a mi sitio web, ya que, entre su familia y trabajo no tiene mucho tiempo de ocio, pero se encuentra en un momento de mudanza, por lo que está en busca de lámparas nuevas para su hogar, por lo que podría llegar a mi sitio por Diseño de Lámparas.
 
 ![image](https://github.com/fniedmann/RepositorioFinalOficial/assets/127915082/4bd0247e-3cc6-42a4-8d99-8153d8661769)
 
