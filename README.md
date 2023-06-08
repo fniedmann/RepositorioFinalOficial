@@ -5,7 +5,7 @@
 ### Usuarios
 
  
-### Juan 
+### Nicolás 
 ##### 23 años, estudiante de derecho en la Universidad Católica. Es conservador, familiar y clásico, su objetivo en la vida es ser el abogado de la empresa de su padre. No tiene afinidad alguna por el diseño, por lo que sería muy poco probable que ingrese a mi sitio web por decisión propia. Sin embargo, se metió a un electivo donde debe buscar inspiración para diseño de marcas.
 
 ![image](https://github.com/fniedmann/RepositorioFinalOficial/assets/127915082/622a615e-4670-46ad-b707-68fe176f0170)
