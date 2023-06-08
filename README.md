@@ -17,3 +17,11 @@
 
 ![image](https://github.com/fniedmann/RepositorioFinalOficial/assets/127915082/4bd0247e-3cc6-42a4-8d99-8153d8661769)
 
+
+
+#### Raquel 
+##### 20 años, estudiante de Diseño de la Universidad del Desarrollo en primer año. Es simpática, creativa y abierta a aprender cosas nuevas. Tiene mucha afinidad por las artes y el diseño y su objetivo en la vida es pertenecer a la compañía Apple como diseñadora. Es muy probable que ingrese a mi página en busca de inspiración para crear su propio portafolio y también como referente para cuando tenga que hacer un trabajo de proyectos. 
+
+![image](https://github.com/fniedmann/RepositorioFinalOficial/assets/127915082/ac2730fa-6338-4411-af15-987ef4be72bb)
+
+
